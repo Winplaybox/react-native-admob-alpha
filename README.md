@@ -343,4 +343,4 @@ Unfortunately, events are not consistent across iOS and Android. To have one uni
 
 ## TODO
 
-- [ ] Support [Ad Targeting](https://developers.google.com/admob/ios/targeting) (RFC: [#166](https://github.com/winplaybox/react-native-admob-alpha/pull/166))
+- [ ] Support [Ad Targeting](https://developers.google.com/admob/ios/targeting)
